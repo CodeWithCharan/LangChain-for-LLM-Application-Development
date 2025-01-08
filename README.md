@@ -1,5 +1,12 @@
 # LangChain-for-LLM-Application-Development
 
+## Credits
+This repository and its contents were inspired by the excellent course [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) offered by [DeepLearning.AI](https://www.deeplearning.ai/).
+
+Special thanks to:
+- [Andrew Ng](https://www.linkedin.com/in/andrewyng/): Founder of DeepLearning.AI and Co-founder of Coursera, for his visionary leadership in AI education.
+- [Harrison Chase](https://www.linkedin.com/in/harrison-chase-961287118/): Co-Founder and CEO of LangChain, for his expertise and contributions to advancing language model applications.
+
 ## Purpose
 This repository is dedicated to the development of applications using LangChain for Large Language Models (LLMs). It provides various examples and tutorials to help users understand and implement LangChain in their projects.
 
