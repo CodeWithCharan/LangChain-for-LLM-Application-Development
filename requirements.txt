@@ -2,3 +2,4 @@ python-dotenv
 langchain
 langchain_google_genai
 langchain-community
+langchain-experimental
