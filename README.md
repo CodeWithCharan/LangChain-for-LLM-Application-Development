@@ -35,6 +35,24 @@ This notebook covers the following topics:
   - SequentialChain
 - Router Chain
 
+### L4-QnA.ipynb
+This notebook covers the following topics:
+- Q&A over Documents
+- Using embeddings for document retrieval
+- Building a retrieval-based QA system
+
+### L5-Evaluation.ipynb
+This notebook covers the following topics:
+- Example generation
+- Manual evaluation (and debugging)
+- LLM-assisted evaluation
+- LangChain evaluation platform
+
+### L6-Agents.ipynb
+This notebook covers the following topics:
+- Using built-in LangChain tools: DuckDuckGo search and Wikipedia
+- Defining your own tools
+
 ## Contribution Guidelines
 We welcome contributions to this repository. If you have any improvements or new examples to add, please follow these steps:
 1. Fork the repository
